@@ -1,0 +1,10 @@
+{"location":
+{"name":"New Delhi",
+"region":"Delhi",
+"country":"India",
+"lat":28.6,
+"lon":77.2,
+"tz_id":"Asia/Kolkata",
+"localtime_epoch":1778851171,
+"localtime":"2026-05-15 18:49"},
+"alerts":{"alert":[]}}
